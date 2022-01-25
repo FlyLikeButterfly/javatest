@@ -3,4 +3,7 @@
   <groupId>javatest</groupId>
   <artifactId>javatest</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <properties>
+  	
+  </properties>
 </project>
